@@ -1,0 +1,14 @@
+ARN,accountNo,CustomerName,Email,PhoneNo,Address,Disco,Landmark,BU,UT,FEEDER,Recommendation,meterRequired
+8141376868,1006882293,Dr James Peter Akanonu,mujib.ishola@mailinator.com,8141376868,08035783248 5 jagunmolu street bariga Somolu,IE,Maintain Statue,SHOMOLU,BARIGA,11-AkokaINJ-T1-Ilaje,The Customer need to replace the wiring meter point,Single Phase
+
+
+
+
+
+
+
+
+
+
+
+
